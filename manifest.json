@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en-US",
+  "name": "kv-express",
+  "short_name": "kv-express",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.anonymous.kv-express-mobile-app"
+    }
+  ],
+  "prefer_related_applications": true
+}

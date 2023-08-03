@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/ssoydabas.github.io/static/js/main.37d4e0ac.js",
+    "Landing.js": "/ssoydabas.github.io/static/js/Landing.a730f64c.chunk.js",
+    "static/js/852.d4d8f074.js": "/ssoydabas.github.io/static/js/852.d4d8f074.js",
+    "static/js/344.b1b9ce1a.chunk.js": "/ssoydabas.github.io/static/js/344.b1b9ce1a.chunk.js",
+    "static/media/workers.jpg": "/ssoydabas.github.io/static/media/workers.894b44874d9bf3f9ae6e.jpg",
+    "static/media/white-brick-wall.png": "/ssoydabas.github.io/static/media/white-brick-wall.9744bc42af25c73eba21.png",
+    "static/media/logo.png": "/ssoydabas.github.io/static/media/logo.1a58f3be374d24838738.png",
+    "favicon.ico": "/ssoydabas.github.io/favicon.ico",
+    "index.html": "/ssoydabas.github.io/index.html",
+    "favicon-32.png": "/ssoydabas.github.io/favicon-32.png",
+    "favicon-16.png": "/ssoydabas.github.io/favicon-16.png",
+    "manifest.json": "/ssoydabas.github.io/manifest.json",
+    "serve.json": "/ssoydabas.github.io/serve.json",
+    "main.37d4e0ac.js.map": "/ssoydabas.github.io/static/js/main.37d4e0ac.js.map",
+    "Landing.a730f64c.chunk.js.map": "/ssoydabas.github.io/static/js/Landing.a730f64c.chunk.js.map",
+    "852.d4d8f074.js.map": "/ssoydabas.github.io/static/js/852.d4d8f074.js.map",
+    "344.b1b9ce1a.chunk.js.map": "/ssoydabas.github.io/static/js/344.b1b9ce1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/852.d4d8f074.js",
+    "static/js/main.37d4e0ac.js"
+  ]
+}
